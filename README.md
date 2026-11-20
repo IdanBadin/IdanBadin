@@ -69,6 +69,6 @@ Most of my professional code lives in private company repositories, so it doesn'
 
 ### Before this
 
-AI Solutions Engineer at Reichman University, building Copilot Studio agents with Microsoft. Data Analyst intern at Amdocs, where an AI dashboard I built was selected for a patent filing. Front-end developer at Weezmo. BA in Business Administration (Digital Innovation) from Reichman University, with honors, GPA 92.
+AI Solutions Engineer at Reichman University, building Copilot Studio agents with Microsoft. Data Analyst intern at Amdocs, where an AI dashboard I built was selected for a patent filing. Front-end developer at Weezmo. BA in Business Administration (Digital Innovation) from Reichman University, with honors, GPA 94.
 
 Based in Ramat HaSharon, Israel. If you're working on something interesting with AI agents or RAG, I'm happy to talk.
