@@ -17,15 +17,12 @@ So far that's 20+ production AI systems for departments across a global enterpri
 - **Full-stack apps** around the models: FastAPI or Node backends, React and Next.js frontends, PostgreSQL
 - **The path to production**: Docker, CI/CD, Azure, testing, and supporting the system after launch
 
-Most of my professional code lives in private company repositories, so it doesn't show up here. The portfolio and LinkedIn have the fuller picture. What's public below is personal and university work.
+Most of my professional code lives in private company repositories, so it doesn't show up here. The portfolio and LinkedIn have the fuller picture.
 
 ### Featured
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Academic Nexus](https://github.com/IdanBadin/Academic-Nexus) | Two-sided marketplace for academic help: search, slot booking, payments, realtime chat, reviews, an AI assistant and voice input. Access control is enforced with Postgres row level security | React, TypeScript, Supabase, Gemini, ElevenLabs, Stripe |
-| [Monthly Budget Tracker](https://github.com/IdanBadin/MonthlyBudgetTracker) | Personal finance dashboard with monthly analysis, running balance, Hebrew and English UI, and biometric sign-in. [Live](https://monthlybudgetracker.netlify.app) | React, TypeScript, Supabase, Tailwind |
-| [Netflix Visual Explorer](https://github.com/IdanBadin/netflix-data-app) | Interactive analysis of 8,500+ Netflix titles with filters and explanations that update with the data. [Live](https://netflix-data-app.streamlit.app/) | Python, Pandas, Seaborn, Streamlit |
 | [Portfolio](https://github.com/IdanBadin/portfolio-website-idan-badin) | My personal site, built on an open source 3D portfolio template. [Live](https://idanbadin-portfolio.netlify.app) | React, TypeScript, Three.js, GSAP |
 
 ### Stack
